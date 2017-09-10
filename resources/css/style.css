@@ -61,7 +61,7 @@ a:link {
   font-size: 14px;
 }
 
-span.copyright {
-  float: left;
+#copyright {
   font-size: 11px;
+  vertical-align: -3px;
 }
